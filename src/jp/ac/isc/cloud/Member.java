@@ -9,7 +9,11 @@ public class Member {
 	public Member(String id, String name,String picture) {
 		this.id = id;
 		this.name = name;
+<<<<<<< HEAD
 		this.picture = picture ;
+=======
+		this.picture = picture;
+>>>>>>> b34f53ea79c7a16c02ac7e1015fe587fb02b5863
 	}
 	//idを返す
 	public String getId() {
